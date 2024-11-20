@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-20T16:49:54 IST" name="Suite" finished-at="2024-11-20T16:52:58 IST" duration-ms="183663">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T16:49:54 IST" name="Test" finished-at="2024-11-20T16:52:58 IST" duration-ms="183663">
+      <class name="Test.TestCase1">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Test.TestCase1@13e344d]" started-at="2024-11-20T16:52:44 IST" name="launch" finished-at="2024-11-20T16:52:48 IST" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="LogintoAmazon()[pri:0, instance:Test.TestCase1@13e344d]" started-at="2024-11-20T16:52:48 IST" name="LogintoAmazon" finished-at="2024-11-20T16:52:53 IST" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogintoAmazon -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Test.TestCase1@13e344d]" started-at="2024-11-20T16:52:53 IST" name="quit" finished-at="2024-11-20T16:52:58 IST" duration-ms="4579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Test.TestCase1 -->
+      <class name="Test.TestCase2">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Test.TestCase2@6340e5f0]" started-at="2024-11-20T16:51:30 IST" name="launch" finished-at="2024-11-20T16:51:35 IST" duration-ms="4915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="searching()[pri:0, instance:Test.TestCase2@6340e5f0]" started-at="2024-11-20T16:51:35 IST" name="searching" finished-at="2024-11-20T16:51:56 IST" duration-ms="20705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Test.TestCase2@6340e5f0]" started-at="2024-11-20T16:51:56 IST" name="quit" finished-at="2024-11-20T16:52:00 IST" duration-ms="4710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Test.TestCase2 -->
+      <class name="Test.TestCase3">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Test.TestCase3@45099dd3]" started-at="2024-11-20T16:52:00 IST" name="launch" finished-at="2024-11-20T16:52:09 IST" duration-ms="8667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="wishlist()[pri:0, instance:Test.TestCase3@45099dd3]" started-at="2024-11-20T16:52:09 IST" name="wishlist" finished-at="2024-11-20T16:52:39 IST" duration-ms="30114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Test.TestCase3@45099dd3]" started-at="2024-11-20T16:52:39 IST" name="quit" finished-at="2024-11-20T16:52:44 IST" duration-ms="4480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Test.TestCase3 -->
+      <class name="Test.TestCase4">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Test.TestCase4@27f981c6]" started-at="2024-11-20T16:49:54 IST" name="launch" finished-at="2024-11-20T16:50:01 IST" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="wishlist()[pri:0, instance:Test.TestCase4@27f981c6]" started-at="2024-11-20T16:50:01 IST" name="wishlist" finished-at="2024-11-20T16:50:34 IST" duration-ms="33035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Test.TestCase4@27f981c6]" started-at="2024-11-20T16:50:34 IST" name="quit" finished-at="2024-11-20T16:50:38 IST" duration-ms="4533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Test.TestCase4 -->
+      <class name="Test.TestCase5">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Test.TestCase5@2794eab6]" started-at="2024-11-20T16:50:38 IST" name="launch" finished-at="2024-11-20T16:50:44 IST" duration-ms="5579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="wishlist()[pri:0, instance:Test.TestCase5@2794eab6]" started-at="2024-11-20T16:50:44 IST" name="wishlist" finished-at="2024-11-20T16:51:25 IST" duration-ms="41291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Test.TestCase5@2794eab6]" started-at="2024-11-20T16:51:25 IST" name="quit" finished-at="2024-11-20T16:51:30 IST" duration-ms="4535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Test.TestCase5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
